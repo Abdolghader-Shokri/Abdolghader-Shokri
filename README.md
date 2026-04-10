@@ -1,16 +1,34 @@
-## Hi there 👋
+# Abdolghader Shokri
 
-<!--
-**Abdolghader-Shokri/Abdolghader-Shokri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer focused on building real software projects.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+Object Oriented Programming
+CLI Applications
+Data Processing
+Automation
+APIs
+Data Analysis
+Machine Learning
+
+## Projects Roadmap
+
+This repository showcases my journey of building 20 Python projects from basic programming to advanced systems including APIs, data analysis and machine learning.
+
+### Phase 1 — Python Basics
+CLI Calculator
+Number Guess Game
+Rock Paper Scissors
+
+### Phase 2 — Working with Data
+Text Analyzer
+Password Generator
+Todo Manager
+
+### Phase 3 — Software Design (OOP)
+Library Management System
+Contact Manager
+
+More projects coming soon.
