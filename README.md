@@ -1,34 +1,40 @@
 # Abdolghader Shokri
 
-Python Developer focused on building real software projects.
+Python Developer focused on building practical software projects.
+
+I am currently building a complete portfolio of Python applications
+from basic programming to advanced systems including APIs, data analysis,
+automation and machine learning.
+
+---
 
 ## Skills
 
-Python
-Object Oriented Programming
-CLI Applications
-Data Processing
-Automation
-APIs
-Data Analysis
+Python  
+Object Oriented Programming  
+CLI Applications  
+Data Processing  
+Automation  
+APIs  
+Data Analysis  
 Machine Learning
 
-## Projects Roadmap
+---
 
-This repository showcases my journey of building 20 Python projects from basic programming to advanced systems including APIs, data analysis and machine learning.
+## Current Project Roadmap
 
 ### Phase 1 — Python Basics
-CLI Calculator
-Number Guess Game
-Rock Paper Scissors
+CLI Calculator  
+Number Guess Game  
+Rock Paper Scissors  
 
 ### Phase 2 — Working with Data
-Text Analyzer
-Password Generator
-Todo Manager
+Text Analyzer  
+Password Generator  
+Todo Manager  
 
-### Phase 3 — Software Design (OOP)
-Library Management System
-Contact Manager
+### Phase 3 — Software Design
+Library Management System  
+Contact Manager  
 
 More projects coming soon.
