@@ -12,17 +12,17 @@ data analysis and machine learning.
 
 ## Phase 1 — Python Basics
 
-1. CLI Calculator
-2. Number Guess Game
-3. Rock Paper Scissors
+1. CLI Calculator - https://github.com/Abdolghader-Shokri/python-cli-calculator
+2. Number Guess Game - https://github.com/Abdolghader-Shokri/python-number-guess-game
+3. Rock Paper Scissors - https://github.com/Abdolghader-Shokri/python-rock-paper-scissors
 
 ---
 
 ## Phase 2 — Working with Data
 
-4. Text Analyzer
-5. Password Generator
-6. Todo Manager (JSON Storage)
+4. Text Analyzer - https://github.com/Abdolghader-Shokri/python-text-analyzer
+5. Password Generator - https://github.com/Abdolghader-Shokri/python-password-generator
+6. Todo Manager (JSON Storage) - https://github.com/Abdolghader-Shokri/python-todo-manager
 
 ---
 
