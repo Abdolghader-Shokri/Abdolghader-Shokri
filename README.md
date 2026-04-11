@@ -12,9 +12,8 @@ data analysis and machine learning.
 
 Currently working on **Phase 3 — Object Oriented Programming**.
 
-Project in progress:
-
-Library Management System
+Next project:
+Contact Manager
 
 ---
 
@@ -38,7 +37,7 @@ Library Management System
 
 ### Phase 3 — Software Design (OOP)
 
-7. Library Management System 🚧  
+7. [Library Management System](https://github.com/Abdolghader-Shokri/python-library-management-system) ✅  
 8. Contact Manager 🚧  
 
 ---
