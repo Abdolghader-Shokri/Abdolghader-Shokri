@@ -10,10 +10,10 @@ data analysis and machine learning.
 
 ## Current Focus
 
-Currently working on **Phase 3 — Object Oriented Programming**.
+Currently progressing through **Phase 3 — Object Oriented Programming**.
 
-Next project:
-Contact Manager
+Next phase:
+Desktop Applications
 
 ---
 
@@ -38,7 +38,7 @@ Contact Manager
 ### Phase 3 — Software Design (OOP)
 
 7. [Library Management System](https://github.com/Abdolghader-Shokri/python-library-management-system) ✅  
-8. Contact Manager 🚧  
+8. [Contact Manager](https://github.com/Abdolghader-Shokri/python-contact-manager) ✅  
 
 ---
 
