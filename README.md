@@ -44,8 +44,8 @@ Backend & APIs
 
 9. [Desktop Todo App](https://github.com/Abdolghader-Shokri/python-desktop_todo_app) ✅  
 10. [Personal Finance Manager](https://github.com/Abdolghader-Shokri/python-personal_finance_manager) ✅  
-11A. [Note Taking App](https://github.com/Abdolghader-Shokri/python-note_taking_app) ✅  
-11B. [Knowledge Manager](https://github.com/Abdolghader-Shokri/python-knowledge_manager) ✅  
+11. [A.Note Taking App](https://github.com/Abdolghader-Shokri/python-note_taking_app) ✅  
+11. [B.Knowledge Manager](https://github.com/Abdolghader-Shokri/python-knowledge_manager) ✅  
 
 ---
 
