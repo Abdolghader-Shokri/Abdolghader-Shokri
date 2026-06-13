@@ -46,7 +46,8 @@ Desktop Applications
 
 9. Desktop Todo App 🚧  
 10. Personal Finance Manager 🚧  
-11. Note Taking App 🚧  
+11A. Note Taking App 🚧
+11B. Knowledge Manager 🚧  
 
 ---
 
