@@ -2,9 +2,7 @@
 
 Python Developer building real-world software projects.
 
-This GitHub showcases my journey of building **20 Python projects**
-from basic programming to advanced systems including APIs,
-data analysis and machine learning.
+This GitHub documents my journey of building **20 Python projects**, progressing from basic programming concepts to more advanced systems including APIs, databases, data analysis, and machine learning.
 
 ---
 
@@ -93,9 +91,9 @@ Backend & APIs
 
 20. Intelligent Web Application 🚧  
 
-A complete system including:
+A complete software system that will include:
 
-Backend with FastAPI  
-PostgreSQL Database  
-Machine Learning Model  
-Data Analysis Dashboard
+- Backend API built with **FastAPI**
+- **PostgreSQL** database
+- Integrated **Machine Learning model**
+- **Data analysis dashboard**
