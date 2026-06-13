@@ -10,10 +10,10 @@ data analysis and machine learning.
 
 ## Current Focus
 
-Currently progressing through **Phase 3 — Object Oriented Programming**.
+Currently progressing through **Phase 5 — Databases**.
 
 Next phase:
-Desktop Applications
+Backend & APIs
 
 ---
 
@@ -44,10 +44,10 @@ Desktop Applications
 
 ### Phase 4 — Desktop Applications
 
-9. Desktop Todo App 🚧  
-10. Personal Finance Manager 🚧  
-11A. Note Taking App 🚧
-11B. Knowledge Manager 🚧  
+9. [Desktop Todo App](https://github.com/Abdolghader-Shokri/python-desktop_todo_app) ✅  
+10. [Personal Finance Manager](https://github.com/Abdolghader-Shokri/python-personal_finance_manager) ✅  
+11A. [Note Taking App](https://github.com/Abdolghader-Shokri/python-note_taking_app) ✅  
+11B. [Knowledge Manager](https://github.com/Abdolghader-Shokri/python-knowledge_manager) ✅  
 
 ---
 
